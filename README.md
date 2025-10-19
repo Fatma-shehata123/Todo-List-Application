@@ -13,6 +13,3 @@ A manual testing project for a Todo List web application, focusing on user regis
 
 ## Technologies
 - Excel, Manual Testing
-
-## License
-MIT License
